@@ -17,3 +17,7 @@ https://github.com/Jahaja/psdash
 https://github.com/facebook/infer
 8. CoderCombat<br>
 https://github.com/tylermcginnis/CoderCombat
+
+Translations
+1. MDN (Mozilla Development Network)
+https://developer.mozilla.org/en/profiles/cs09g
