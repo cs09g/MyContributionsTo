@@ -1,6 +1,6 @@
 # MyContributionsTo
-Repositories that I've contributed
 
+### Repositories
 1. KMU Grade Server<br>
 https://github.com/KMUGradeServerProject/KMUGradeServerProject
 2. MRY<br>
@@ -18,6 +18,6 @@ https://github.com/facebook/infer
 8. CoderCombat<br>
 https://github.com/tylermcginnis/CoderCombat
 
-Translations
-1. MDN (Mozilla Development Network)
+### Translations
+1. MDN (Mozilla Development Network)<br>
 https://developer.mozilla.org/en/profiles/cs09g
