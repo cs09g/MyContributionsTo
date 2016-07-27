@@ -20,6 +20,9 @@ https://github.com/facebook/infer
 9. CoderCombat<br>
 https://github.com/tylermcginnis/CoderCombat
 
+... and more 
+https://githubcontributions.io/user/cs09g
+
 ### Translations
 1. MDN (Mozilla Development Network)<br>
 https://developer.mozilla.org/en/profiles/cs09g
