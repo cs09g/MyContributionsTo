@@ -19,6 +19,8 @@ https://github.com/Jahaja/psdash
 https://github.com/facebook/infer
 9. CoderCombat<br>
 https://github.com/tylermcginnis/CoderCombat
+10. Jasmine-jquery<br>
+https://github.com/velesin/jasmine-jquery
 
 ... and more 
 https://githubcontributions.io/user/cs09g
@@ -26,3 +28,5 @@ https://githubcontributions.io/user/cs09g
 ### Translations
 1. MDN (Mozilla Development Network)<br>
 https://developer.mozilla.org/en/profiles/cs09g
+2. Thimble<br>
+https://github.com/mozilla/thimble.mozilla.org
