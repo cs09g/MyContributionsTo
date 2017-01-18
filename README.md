@@ -25,7 +25,7 @@ https://github.com/velesin/jasmine-jquery
 ... and more 
 https://githubcontributions.io/user/cs09g
 
-### Translations
+### Translations(English to Korean)
 1. MDN (Mozilla Development Network)<br>
 https://developer.mozilla.org/en/profiles/cs09g
 2. Thimble<br>
