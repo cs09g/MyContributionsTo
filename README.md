@@ -30,3 +30,5 @@ https://githubcontributions.io/user/cs09g
 https://developer.mozilla.org/en/profiles/cs09g
 2. Thimble<br>
 https://github.com/mozilla/thimble.mozilla.org
+3. AMO frontend<br>
+https://github.com/mozilla/addons-frontend
