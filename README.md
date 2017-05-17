@@ -34,5 +34,5 @@ https://github.com/mozilla/thimble.mozilla.org
 https://github.com/mozilla/addons-frontend
 
 ### QNA board activities
-1. StackExchange (Geographic Infomation Systems)
+1. StackExchange (Geographic Infomation Systems)<br>
 https://gis.stackexchange.com/users/75882/chase-choi
