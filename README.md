@@ -32,3 +32,7 @@ https://developer.mozilla.org/en/profiles/cs09g
 https://github.com/mozilla/thimble.mozilla.org
 3. AMO frontend<br>
 https://github.com/mozilla/addons-frontend
+
+### QNA board activities
+1. StackExchange (Geographic Infomation Systems)
+https://gis.stackexchange.com/users/75882/chase-choi
